@@ -1,0 +1,75 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@durvesh2002
+covid19-thane /
+api
+
+0
+0
+
+    0
+
+Code
+Issues 0
+Pull requests 0
+Actions
+Projects 0
+Wiki
+Security 0
+
+    Insights
+
+api/api
+@rushiranpise rushiranpise Update api 7b33219 7 hours ago
+32 lines (32 sloc) 559 Bytes
+{
+  "success": true,
+  "data": {
+    "ambarnath": {
+      "total": 5,
+      "discharged": 1,
+      "deaths": 1
+    },
+    "badlapur": {
+      "total": 6,
+      "discharged": 1,
+      "deaths": 1
+    },    
+    "thane": {
+      "total": 7,
+      "discharged": 1,
+      "deaths": 1
+    },
+    "kalyan": {
+      "total": 8,
+      "discharged": 1,
+      "deaths": 1
+    },  
+    "ulhasnagar": {
+      "total": 9,
+      "discharged": 1,
+      "deaths": 1
+    }
+  },
+  "lastRefreshed": "2020-05-17T04:06:01.537Z",
+  "lastOriginUpdate": "2020-05-17T02:30:00.000Z"
+}
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
